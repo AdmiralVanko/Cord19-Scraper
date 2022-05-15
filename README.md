@@ -6,4 +6,6 @@ virtualenv .env && source .env/bin/activate && pip install -r requirements.txt
 
 The metadata.cvs needs to be in the same directory as the main.py file.
 
+Latest run was with the cord-19 Dataset from 2022-04-07
+
 Contact for questions: ivan.shtetinski@gmail.com

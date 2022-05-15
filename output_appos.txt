@@ -1,0 +1,300 @@
+EuPathDB: the eukaryotic pathogen genomics database resource
+Development of nucleic acid aptamer-based lateral flow assays: A robust platform for cost-effective point-of-care diagnosis
+APICURON: a database to credit and acknowledge the work of biocurators
+TIDB: a comprehensive database of trained immunity
+HBFP: a new repository for human body fluid proteome
+HerBChain, a blockchain-based informative platform for quality assurance and quality control of herbal products
+Smart/stimuli-responsive hydrogels: Cutting-edge platforms for tissue engineering and other biomedical applications
+iCAV: an integrative database of cancer-associated viruses
+RNAInter v4.0: RNA interactome repository with redefined confidence scoring system and improved accessibility
+RPS: a comprehensive database of RNAs involved in liquid–liquid phase separation
+HKG: an open genetic variant database of 205 Hong Kong cantonese exomes
+VP45.17: COVI‐PREG: an international COVID‐19 and pregnancy registry
+MEDAS: an open-source platform as a service to help break the walls between medicine and informatics
+BIGG, the international database of GRADE Guidelines
+COVID-19 management in heart transplanted recipients: registry of Almazov National Medical Research Centre.
+Peptide and protein nanoparticle conjugates: versatile platforms for biomedical applications.
+Nucleoside-modified messenger RNA (modRNA) COVID-19 vaccine platform.
+VPTMdb: a viral posttranslational modification database.
+Da Vinci single site© surgical platform in clinical practice: a systematic review.
+Coronapod: Google-backed database could help answer big COVID questions.
+Molecular farming of antimicrobial peptides: available platforms and strategies for improving protein biosynthesis using modified virus vectors.
+Correspondence to: 'Characteristics associated with hospitalisation for COVID-19 in people with rheumatic disease: data from the COVID-19 Global Rheumatology Alliance physician-reported registry' by Gianfrancesco et al.
+Neuropsychological adverse drug reactions of Remdesivir: analysis using VigiBase, the WHO global database of individual case safety reports.
+Pipeline embolization device deployment via an envoy distal access XB guiding catheter-biaxial platform: A technical note.
+Saphenous vein graft near-infrared spectroscopy imaging insights from the lipid core plaque association with clinical events near-infrared spectroscopy (ORACLE-NIRS) registry.
+MAB-MIG: registry of the spanish neurological society of erenumab for migraine prevention.
+Study on the university students' satisfaction of the wisdom tree massive open online course platform based on parameter optimization intelligent algorithm.
+OpenHSV: an open platform for laryngeal high-speed videoendoscopy.
+Biomes are everybody's kingdom: a platform where ecology and biogeography meet.
+Regenstrief teaching electronic medical record (tEMR) platform: a novel tool for teaching and evaluating applied health information technology.
+Observational analysiS of out-of-hospital Cardiac Arrest occurRence and temporal variability patterns in subpopulation of southern POLand from 2006 to 2018: OSCAR-POL registry.
+An evaluation of trans-anal rectoscopic-assisted minimally invasive surgery (ARAMIS): a new platform for transanal surgery.
+RespiDisk: a point-of-care platform for fully automated detection of respiratory tract infection pathogens in clinical samples.
+Long-term follow-up after near-infrared spectroscopy coronary imaging: Insights from the lipid cORe plaque association with CLinical events (ORACLE-NIRS) registry.
+dbDNA™: an advanced platform for genetic medicines.
+Cardiac arrhythmias in patients presenting with COVID-19 treated in Portuguese hospitals: A national registry from the Portuguese Association of Arrhythmology, Pacing and Electrophysiology.
+Atrial appendage angiotensin-converting enzyme-2, aging and cardiac surgical patients: a platform for understanding aging-related coronavirus disease-2019 vulnerabilities.
+The Biomedical Research Hub: a federated platform for patient research data.
+The effects of vagus nerve stimulation on the course and outcomes of patients with bipolar disorder in a treatment-resistant depressive episode: a 5-year prospective registry.
+MiREDiBase: a manually curated database of validated and putative editing events in microRNAs
+Raccovid-19: First argentine registry of cardiovascular complications in covid-19 patients
+DRDOCK: A Drug Repurposing platform integrating automated docking, simulations and a log-odds-based drug ranking scheme
+Grup WhatsApp ‘Bantul in Hong Kong’: Platform komunikasi pekerja migran Indonesia pada masa pandemi COVID-19 di Hong Kong (WhatsApp group Bantul in Hong Kong: Communication platform of Indonesian migrant workers during COVID-19 pandemic in Hong Kong)
+DRAGON-Data: A platform and protocol for integrating genomic and phenotypic data across large psychiatric cohorts
+cellxgene: a performant, scalable exploration platform for high dimensional sparse matrices
+Librator, a platform for optimized sequence editing, design, and expression of influenza virus proteins
+Cervical cancer elimination in the era of COVID-19: The potential role of Artificial Intelligence (AI)-guided digital colposcope cloud platform
+An interactive knowledge graph based platform for covid-19 clinical research
+Cerner Real-World Data (CRWD) - A de-identified multicenter electronic health records database
+COVID‐19 mobile test unit (COMBAT): A novel pharyngeal sampling platform for COVID‐19 testing in Malaysia
+Effect of the COVID19 pandemic on rheumatologist prescription behaviour of new advanced therapy: Data of the tardis-ra registry, a nationwide Belgian biologic registry
+Design for emergency: An open platform to design and implement user-centered solutions in the COVID-19 pandemic
+The Emergence of Community-Driven Platforms in Response to COVID-19 GetUsPPE, a multi-sided platform that emerged during the COVID-19 pandemic, offers key insights on how to mobilize and leverage diverse actors to provide solutions in emergencies
+The King's College London Coronavirus Health and Experiences of Colleagues at King's Study (KCL CHECK) protocol paper: a platform for study of the effects of coronavirus pandemic on staff and postgraduate students.
+Quantitative intravital imaging of Plasmodium falciparum sporozoites: A novel platform to test malaria intervention strategies
+Effects of a project based on mobile applications, exergames and a web 2.0 social learning platform on students’ physical activity and nutritional criteria in the era of COVID 19
+DeepNEU: a machine learning platform for simulating Cytokine Storm and Coagulopathy that complicate severe COVID-19 to enable targeted drug repurposing
+Case-control study of risk factors for stroke among critically-ill patients with SARS-CoV-2: an analysis of the COVID-19 critical care consortium (CCCC) global registry
+The positive impact of medic bleep, an asynchronous communication platform versus existing communication methods: an observational study
+MTSviewer: a database to visualize mitochondrial targeting sequences, cleavage sites, and mutations on protein structures
+Knowledge graph based platform of COVID-19 drugs and symptoms
+Chatbot sebagai wadah informasi perkembangan COVID-19 di kota Pekanbaru menggunakan platform Whatsapp
+‘The Thousand Polish Genomes Project’ - a national database of Polish variant allele frequencies
+V3Geo: a cloud-based repository for virtual 3D models in geoscience
+The sense of being there during online classes: analysis of usability and presence in web-conferencing systems and virtual reality social platforms
+SPIRO – the automated Petri plate imaging platform designed by biologists, for biologists
+dbGSRV: a manually curated database of genetic susceptibility to respiratory virus
+Impact of COVID-19 outbreak on patients with ST-segment elevation myocardial infarction (STEMI) in Turkey: results from TURSER study (TURKISH St-segment elevation myocardial infarction registry)
+MiREDiBase, a manually curated database of validated and putative editing events in microRNAs
+OxCOVID19 Database, a multimodal data repository for better understanding the global impact of COVID-19
+Initial data from the COVID-19 Global Rheumatology Alliance provider registries
+Viral pandemic preparedness: A pluripotent stem cell-based machine-learning platform for simulating SARS-CoV-2 infection to enable drug discovery and repurposing
+EatLOCAL: a platform that connects local farmers, consumers, municipalities and non-governmental organisations
+Trend of learning management system (LMS) platforms for science education before-after Covid-19 pandemic
+Stroke etiologies in patients with COVID-19: the svin COVID-19 multinational registry
+Stroke etiologies in patients with COVID-19: the SVIN COVID-19 multinational registry
+Associations of baseline use of biologic or targeted synthetic DMARDs with COVID-19 severity in rheumatoid arthritis: Results from the COVID-19 Global Rheumatology Alliance physician registry
+Postdischarge thromboembolic outcomes and mortality of hospitalized patients with COVID-19: the CORE-19 registry
+Correction to: Anteromedial positioning of the femoral tunnel in Anterior Cruciate Ligament reconstruction is the best option to avoid revision: a single surgeon registry
+Author Correction: A global database of COVID-19 vaccinations
+Data harmonization for COVID-19 and cancer research registries
+VPTMdb: a viral posttranslational modification database
+Rheumatic disease and COVID-19: initial data from the COVID-19 Global Rheumatology Alliance provider registries
+COVID19-CT-dataset: an open-access chest CT image repository of 1000+ patients with confirmed COVID-19 diagnosis
+COVID-19 antibody therapeutics tracker: a global online database of antibody therapeutics for the prevention and treatment of COVID-19
+StudyU: a platform for designing and conducting innovative digital N-of-1 trials
+Impact of COVID-19 pandemic and infection on in hospital survival for patients presenting with acute coronary syndromes: A multicenter registry
+Towards a "Net" generation of Pathologists: the pathCast online remote learning platform
+Risk factors for severe COVID-19 illness in children: Analysis of the virus: COVID-19 registry
+First performance report of QIAreach™ Anti-SARS-CoV-2 Total Test, an innovative nanoparticle fluorescence digital detection platform
+HVIDB: a comprehensive database for human-virus protein-protein interactions
+Evidence for action: a One Health learning platform on interventions to tackle antimicrobial resistance
+Sound Dr -- A database of Respiratory Sound and Baseline System for COVID-19 Detection (preprint)/ en
+A case study of short-term forecasting during the COVID-19 pandemic: the platform icumonitoring.ch
+Coronapod: Google-backed database could help answer big COVID questions
+[Cooperative approach of pathology and neuropathology in the COVID-19 pandemic : German registry for COVID-19 autopsies (DeRegCOVID) and German network for autopsies in pandemics (DEFEAT PANDEMIcs)]./ Kooperatives Vorgehen der Pathologie und Neuropathologie in der COVID-19-Pandemie : Deutsches Register für COVID-19-Obduktionen (DeRegCOVID) und Deutsches Netzwerk für Autopsien in Pandemien (DEFEAT PANDEMIcs)
+Cooperative approach of pathology and neuropathology in the COVID-19 pandemic : German registry for COVID-19 autopsies (DeRegCOVID) and German network for autopsies in pandemics (DEFEAT PANDEMIcs)
+[Cooperative approach of pathology and neuropathology in the COVID-19 pandemic : German registry for COVID-19 autopsies (DeRegCOVID) and German network for autopsies in pandemics (DEFEAT PANDEMIcs)]
+Correspondence on 'Factors associated with COVID-19-related death in people with rheumatic diseases: results from the COVID-19 Global Rheumatology Alliance physician-reported registry'
+The InterPro protein families and domains database: 20 years on
+Outcomes following PCI in CABG candidates during the COVID-19 pandemic: The prospective multicentre UK-ReVasc registry
+Correspondence to: 'Characteristics associated with hospitalisation for COVID-19 in people with rheumatic disease: data from the COVID-19 Global Rheumatology Alliance physician-reported registry' by Gianfrancesco et al
+Effects of coronavirus disease 2019 on the Society for Vascular Surgery Vascular Quality Initiative arterial procedure registry
+Covid-19's rapid diagnosis open platform based on X-ray imaging and deep learning
+Comment on: 'Characteristics associated with hospitalisation for COVID-19 in people with rheumatic disease: data from the COVID-19 Global Rheumatology Alliance physician-reported registry' by Gianfrancesco et al
+Neuropsychological adverse drug reactions of Remdesivir: analysis using VigiBase, the WHO global database of individual case safety reports
+Neurological complications of COVID-19 in hospitalized patients: The registry of a neurology department in the first wave of the pandemic
+Point-of-Care program in HIV, tuberculosis, and associated conditions: A virtual global technical assistance platform to strengthen HIV and tuberculosis workforce capacity
+Characteristics of SARS-CoV-2 in 64 children with CNS tumors: A report from the SIOP/St. Jude children's research hospital (SJCRH) global COVID-19 childhood cancer registry
+NovidChain: Blockchain-based privacy-preserving platform for COVID-19 test/vaccine certificates
+Covid-19 in liver transplant recipients: the French SOT COVID registry
+The spectrum of COVID-19-associated dermatologic manifestations: An international registry of 716 patients from 31 countries
+The efficiency of hospitals: platform for sustainable health care system
+Comment on "The spectrum of COVID-19-associated dermatologic manifestations: An international registry of 716 patients from 31 countries"
+Biomes are everybody's kingdom: a platform where ecology and biogeography meet
+Reply To “Comment on ‘The spectrum of COVID-19-associated dermatologic manifestations: an international registry of 716 patients from 31 countries’”
+Children requiring intensive care with SARS-CoV-2 infection during the first wave of pandemic in spain: A multi-centre national registry
+Cardiac arrhythmias in patients presenting with COVID-19 treated in Portuguese hospitals: A national registry from the Portuguese Association of Arrhythmology, Pacing and Electrophysiology
+Smartpathk: a platform for teaching glomerulopathies using machine learning
+Acute coronary syndromes in the era of SARS-CoV-2 Infection: A registry of the French group of acute cardiac care
+Atrial appendage angiotensin-converting enzyme-2, aging and cardiac surgical patients: a platform for understanding aging-related coronavirus disease-2019 vulnerabilities
+Visualisation of epidemiological map using an Internet of Things infectious disease surveillance platform
+Can training in diagnostic radiology be moved online during the COVID-19 pandemic? UK trainee perceptions of the Radiology-Integrated Training Initiative (R-ITI) e-learning platform
+Initial data from the COVID-19 Global Rheumatology Alliance provider registries - Authors' reply
+Computation analysis of brand experience dimensions: Indian online food delivery platforms
+Data Resource Profile: COVerAGE-DB: a global demographic database of COVID-19 cases and deaths
+Vagus nerve stimulation therapy in people with drug-resistant epilepsy (CORE-VNS): rationale and design of a real-world post-market comprehensive outcomes registry
+The World Health Organization's Disease Outbreak News: a retrospective database
+COVID‐19 Disease Map, a computational knowledge repository of virus‐host interaction mechanisms
+RPocket: an intuitive database of RNA pocket topology information with RNA-ligand data resources
+COVID-19 mRNA vaccines: platforms and current developments
+Adenovirus-based vaccines – a platform for pandemic preparedness against emerging viral pathogens
+Plant-derived VLP: a worthy platform to produce vaccine against SARS-CoV-2
+Comment on “The spectrum of COVID-19-associated dermatologic manifestations: An international registry of 716 patients from 31 countries”
+VThunter: a database for single-cell screening of virus target cells in the animal kingdom
+Heart failure in COVID‐19: the multicentre, multinational PCHF‐COVICAV registry
+Viral pandemic preparedness: A pluripotent stem cell‐based machine‐learning platform for simulating SARS‐CoV‐2 infection to enable drug discovery and repurposing
+COVID19db: a comprehensive database platform to discover potential drugs and targets of COVID-19 at whole transcriptomic scale
+Evaluation of the sample-to-result, random access NeuMoDx platform for viral load testing of Cytomegalovirus and Epstein Barr virus in clinical specimens
+Cellinker: a platform of ligand–receptor interactions for intercellular communication analysis
+929TiP HERODOTUS: Head and neck cancers international COVID-19 collaboration: An international registry on head and neck cancer with COVID-19
+Evaluation of new or repurposed treatments for COVID-19: protocol for the phase Ib/IIa DEFINE trial platform
+The Oddity Detection in Diverse Scenes (ODDS) database: Validated real-world scenes for studying anomaly detection
+Acute myocardial infarction in the Covid-19 era: Incidence, clinical characteristics and in-hospital outcomes—A multicenter registry
+‘Refbin’ an online platform to extract and classify large-scale information: a pilot study of COVID-19 related papers
+Impact of diabetes mellitus on COVID-19 clinical symptoms and mortality: Jakarta’s COVID-19 epidemiological registry
+Design of the healthcare worker exposure response and outcomes (HERO) research platform
+GenoVault: a cloud based genomics repository
+Multiomix: a cloud-based platform to infer cancer genomic and epigenomic events associated with gene expression modulation
+COVID Border Accountability Project, a hand-coded global database of border closures introduced during 2020
+HumanNet v3: an improved database of human gene networks for disease research
+Health Sentinel: a mobile crowdsourcing platform for self-reported surveys provides early detection of COVID-19 clusters in San Luis Potosí, Mexico
+AGILE: a seamless phase I/IIa platform for the rapid evaluation of candidates for COVID-19 treatment: an update to the structured summary of a study protocol for a randomised platform trial letter
+A2P2S6 (A = Ba and Pb): a good platform to study the polymorph effect and lone pair effect to form an acentric structure.
+Clarity Plusâ¢ digital PCR: A novel platform for absolute quantification of SARS-CoV-2
+Glycemic outcomes among rural patients in the type 1 diabetes T1D Exchange registry, January 2016–March 2018: a cross-sectional cohort study
+ZOVER: the database of zoonotic and vector-borne viruses
+Balloon dilation of the Eustachian tube with a seeker-based device: A registry of 169 patients
+Outbreak.info Research Library: A standardized, searchable platform to discover and explore COVID-19 resources and data
+TP8.2.7 The Post Graduate Virtual Learning Environment: an effective platform for the delivery of a surgical teaching programme in the West Midlands
+XDeathDB: a visualization platform for cell death molecular interactions
+PhyloPrimer: a taxon-specific oligonucleotide design platform
+ViRBase v3.0: a virus and host ncRNA-associated interaction repository with increased coverage and annotation
+Metabo-tip: a metabolomics platform for lifestyle monitoring supporting the development of novel strategies in predictive, preventive and personalised medicine. (Special Issue: Predictive, preventive and personalised (3P) medical approach in population health: life-style and sleep quality, periodontal health, microbiome, anti-cancer and anti-COVID-19 protection.)
+Observed Antibody Space: A diverse database of cleaned, annotated, and translated unpaired and paired antibody sequences
+Influence of the COVID-19 outbreak in people with epilepsy: Analysis of a Spanish population (EPICOVID registry)
+Impact of COVID-19 outbreak on patients with ST-segment elevation myocardial ınfarction (STEMI) in Turkey: results from TURSER study (TURKISH St-segment elevation myocardial ınfarction registry)
+GMrepo v2: a curated human gut microbiome database with special focus on disease markers and cross-dataset comparison
+Blood and bone marrow donor registry of Istanbul medical faculty activity and experience in past 3 years: A cross-sectional documentation of TRIS activity: the first blood and marrow registry in Turkey
+Characteristics of patients in platform C19, a COVID-19 research database combining primary care electronic health record and patient reported information
+Cost-effectiveness analysis protocol of the Smart Triage program: A point-of-care digital triage platform for pediatric sepsis in Eastern Uganda
+Cooperative approach of pathology and neuropathology in the COVID-19 pandemic: German registry for COVID-19 autopsies (DeRegCOVID) and German network for autopsies in pandemics (DEFEAT PANDEMIcs)
+Impact of COVID-19 pandemic and infection on in hospital survival for patients presenting with acute coronary syndromes: A multicenter registry()
+dbGSRV: A manually curated database of genetic susceptibility to respiratory virus
+Modeling drug mechanism of action with large scale gene-expression profiles using GPAR, an artificial intelligence platform
+MitoScape: A big-data, machine-learning platform for obtaining mitochondrial DNA from next-generation sequencing data
+ONQUADRO: a database of experimentally determined quadruplex structures
+SCANNER: a web platform for annotation, visualization and sharing of single cell RNA-seq data
+GraphOmics: an interactive platform to explore and integrate multi-omics data
+Myocardial involvement in children with post-COVID multisystem inflammatory syndrome: a cardiovascular magnetic resonance based multicenter international study—the CARDOVID registry
+A comparison of student and faculty attitudes on the use of Zoom, a video conferencing platform: A mixed-methods study
+Neurological manifestations associated with COVID-19: a nationwide registry
+SPEEDS: A portable serological testing platform for rapid electrochemical detection of SARS-CoV-2 antibodies
+Coronavirus disease 2019 (COVID-19) vaccine platforms: how novel platforms can prepare us for future pandemics: a narrative review
+Robot Dance: a mathematical optimization platform for intervention against COVID-19 in a complex network
+The use of the NEJM knowledge + online platform to supplement traditional pulmonary didactic: a resident-led educational quality improvement project at a community hospital IM GME program
+Infection on a chip: a microscale platform for simple and sensitive cell-based virus assays
+Smartpath(k): a platform for teaching glomerulopathies using machine learning
+Pragmatic MDR: a metadata repository with bottom-up standardization of medical metadata through reuse
+The FDA MyStudies app: a reusable platform for distributed clinical trials and real-world evidence studies
+DISCO: a database of Deeply Integrated human Single-Cell Omics data
+HVIDB: a comprehensive database for human-virus protein-protein interactions.
+Etiology of fever in Ugandan children: identification of microbial pathogens using metagenomic next-generation sequencing and IDseq, a platform for unbiased metagenomic analysis
+P19: Cutaneous manifestations of COVID‐19 in the UK: a registry of digital submissions from interdisciplinary healthcare professionals
+The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients
+SOCRATES-CoMix: a platform for timely and open-source contact mixing data during and in between COVID-19 surges and interventions in over 20 European countries
+COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms
+International impact of the COVID-19 pandemic lockdown on intravitreal therapy outcomes: Fight Retinal Blindness registry.
+multiSero: open multiplex-ELISA platform for analyzing antibody responses to SARS-CoV-2 infection
+ADEIP: an integrated platform of age-dependent expression and immune profiles across human tissues
+NucPosDB: a database of nucleosome positioning in vivo and nucleosomics of cell-free DNA
+Neurological complications of COVID‐19 in hospitalized patients: The registry of a neurology department in the first wave of the pandemic
+Initial data from the COVID-19 Global Rheumatology Alliance provider registries – Authors' reply
+Point-of-care program in HIV, tuberculosis, and associated conditions: A virtual global technical assistance platform to strengthen HIV and tuberculosis workforce capacity
+CoV3D: A database of high resolution coronavirus protein structures
+SuPepMem: A database of innate immune system peptides and their cell membrane interactions
+Outcomes following PCI in CABG candidates during the COVID‐19 pandemic: The prospective multicentre UK‐ReVasc registry
+Immuno-biosensor on a chip: a self-powered microfluidic-based electrochemical biosensing platform for point-of-care quantification of proteins.
+The Mass General Brigham Biobank Portal: an i2b2-based data repository linking disparate and high-dimensional patient data to support multimodal analytics
+Long-term effects of coronavirus disease 2019 on the cardiovascular system, CV COVID registry: A structured summary of a study protocol
+Coronavirus Host Genetics South Africa (COHG-SA) database—a variant database for gene regions associated with SARS-CoV-2 outcomes
+Molecular electronics sensors on a scalable semiconductor chip: A platform for single-molecule measurement of binding kinetics and enzyme activity
+Hepatitis B core-based virus-like particles: A platform for vaccine development in plants
+Longitudinal study of symptom burden in outpatients with advanced cancers based on electronic Patient-Reported Outcome (ePRO) platform: a single institution, prospective study protocol
+SCoV2-MD: a database for the dynamics of the SARS-CoV-2 proteome and variant impact predictions
+Towards a “Net” generation of Pathologists: the pathCast online remote learning platform
+Validity of algorithms for identifying five chronic conditions in MedicineInsight, an Australian national general practice database
+Modinterv COVID-19: An online platform to monitor the evolution of epidemic curves
+Demystifying mRNA vaccines: an emerging platform at the forefront of cryptic diseases
+Recombinant vesicular stomatitis virus expressing the spike protein of genotype 2b porcine epidemic diarrhea virus: A platform for vaccine development against emerging epidemic isolates
+Influence of the COVID-19 outbreak on transportation of pregnant women in an emergency medical service system: Population-based, ORION registry
+Diagnosis of SARS-CoV-2 infection with LamPORE, a high-throughput platform combining loop-mediated isothermal amplification and nanopore sequencing
+An easy operating pathogen microarray (EOPM) platform for rapid screening of vertebrate pathogens
+COVIEdb: A database for potential immune epitopes of coronaviruses
+Lantern: an integrative repository of functional annotations for lncRNAs in the human genome
+Negative-sense RNA viruses: An underexplored platform for examining virus–host lipid interactions
+ COVID-19 research database combining primary care electronic health record and patient reported information
+Cost-effectiveness analysis protocol of the Smart Triage program: A point-of-care digital triage platform for pediatric sepsis in Eastern Uganda
+Cooperative approach of pathology and neuropathology in the COVID-19 pandemic: German registry for COVID-19 autopsies (DeRegCOVID) and German network for autopsies in pandemics (DEFEAT PANDEMIcs)
+Impact of COVID-19 pandemic and infection on in hospital survival for patients presenting with acute coronary syndromes: A multicenter registry()
+dbGSRV: A manually curated database of genetic susceptibility to respiratory virus
+Modeling drug mechanism of action with large scale gene-expression profiles using GPAR, an artificial intelligence platform
+MitoScape: A big-data, machine-learning platform for obtaining mitochondrial DNA from next-generation sequencing data
+ONQUADRO: a database of experimentally determined quadruplex structures
+SCANNER: a web platform for annotation, visualization and sharing of single cell RNA-seq data
+GraphOmics: an interactive platform to explore and integrate multi-omics data
+Myocardial involvement in children with post-COVID multisystem inflammatory syndrome: a cardiovascular magnetic resonance based multicenter international study—the CARDOVID registry
+A comparison of student and faculty attitudes on the use of Zoom, a video conferencing platform: A mixed-methods study
+Neurological manifestations associated with COVID-19: a nationwide registry
+SPEEDS: A portable serological testing platform for rapid electrochemical detection of SARS-CoV-2 antibodies
+Coronavirus disease 2019 (COVID-19) vaccine platforms: how novel platforms can prepare us for future pandemics: a narrative review
+Robot Dance: a mathematical optimization platform for intervention against COVID-19 in a complex network
+The use of the NEJM knowledge + online platform to supplement traditional pulmonary didactic: a resident-led educational quality improvement project at a community hospital IM GME program
+Infection on a chip: a microscale platform for simple and sensitive cell-based virus assays
+Smartpath(k): a platform for teaching glomerulopathies using machine learning
+Pragmatic MDR: a metadata repository with bottom-up standardization of medical metadata through reuse
+The FDA MyStudies app: a reusable platform for distributed clinical trials and real-world evidence studies
+DISCO: a database of Deeply Integrated human Single-Cell Omics data
+HVIDB: a comprehensive database for human-virus protein-protein interactions.
+Etiology of fever in Ugandan children: identification of microbial pathogens using metagenomic next-generation sequencing and IDseq, a platform for unbiased metagenomic analysis
+P19: Cutaneous manifestations of COVID‐19 in the UK: a registry of digital submissions from interdisciplinary healthcare professionals
+The Dutch Data Warehouse, a multicenter and full-admission electronic health records database for critically ill COVID-19 patients
+SOCRATES-CoMix: a platform for timely and open-source contact mixing data during and in between COVID-19 surges and interventions in over 20 European countries
+COVID19 Disease Map, a computational knowledge repository of virus–host interaction mechanisms
+International impact of the COVID-19 pandemic lockdown on intravitreal therapy outcomes: Fight Retinal Blindness registry.
+multiSero: open multiplex-ELISA platform for analyzing antibody responses to SARS-CoV-2 infection
+ADEIP: an integrated platform of age-dependent expression and immune profiles across human tissues
+NucPosDB: a database of nucleosome positioning in vivo and nucleosomics of cell-free DNA
+Neurological complications of COVID‐19 in hospitalized patients: The registry of a neurology department in the first wave of the pandemic
+Initial data from the COVID-19 Global Rheumatology Alliance provider registries – Authors' reply
+Point-of-care program in HIV, tuberculosis, and associated conditions: A virtual global technical assistance platform to strengthen HIV and tuberculosis workforce capacity
+CoV3D: A database of high resolution coronavirus protein structures
+SuPepMem: A database of innate immune system peptides and their cell membrane interactions
+Outcomes following PCI in CABG candidates during the COVID‐19 pandemic: The prospective multicentre UK‐ReVasc registry
+Immuno-biosensor on a chip: a self-powered microfluidic-based electrochemical biosensing platform for point-of-care quantification of proteins.
+The Mass General Brigham Biobank Portal: an i2b2-based data repository linking disparate and high-dimensional patient data to support multimodal analytics
+Long-term effects of coronavirus disease 2019 on the cardiovascular system, CV COVID registry: A structured summary of a study protocol
+Coronavirus Host Genetics South Africa (COHG-SA) database—a variant database for gene regions associated with SARS-CoV-2 outcomes
+Molecular electronics sensors on a scalable semiconductor chip: A platform for single-molecule measurement of binding kinetics and enzyme activity
+Hepatitis B core-based virus-like particles: A platform for vaccine development in plants
+Longitudinal study of symptom burden in outpatients with advanced cancers based on electronic Patient-Reported Outcome (ePRO) platform: a single institution, prospective study protocol
+SCoV2-MD: a database for the dynamics of the SARS-CoV-2 proteome and variant impact predictions
+Towards a “Net” generation of Pathologists: the pathCast online remote learning platform
+Validity of algorithms for identifying five chronic conditions in MedicineInsight, an Australian national general practice database
+Modinterv COVID-19: An online platform to monitor the evolution of epidemic curves
+Demystifying mRNA vaccines: an emerging platform at the forefront of cryptic diseases
+Recombinant vesicular stomatitis virus expressing the spike protein of genotype 2b porcine epidemic diarrhea virus: A platform for vaccine development against emerging epidemic isolates
+Influence of the COVID-19 outbreak on transportation of pregnant women in an emergency medical service system: Population-based, ORION registry
+Diagnosis of SARS-CoV-2 infection with LamPORE, a high-throughput platform combining loop-mediated isothermal amplification and nanopore sequencing
+An easy operating pathogen microarray (EOPM) platform for rapid screening of vertebrate pathogens
+COVIEdb: A database for potential immune epitopes of coronaviruses
+Lantern: an integrative repository of functional annotations for lncRNAs in the human genome
+Negative-sense RNA viruses: An underexplored platform for examining virus–host lipid interactions
+ to monitor the evolution of epidemic curves
+OxCOVID19 Database: a multimodal data repository for better understanding the global impact of COVID-19
+Demystifying mRNA vaccines: an emerging platform at the forefront of cryptic diseases
+Infectome: A platform to trace infectious triggers of autoimmunity
+The baculovirus expression vector system: A commercial manufacturing platform for viral vaccines and gene therapy vectors
+Engineering organoids: a promising platform to understand biology and treat diseases
+Recombinant vesicular stomatitis virus expressing the spike protein of genotype 2b porcine epidemic diarrhea virus: A platform for vaccine development against emerging epidemic isolates
+Influence of the COVID-19 outbreak on transportation of pregnant women in an emergency medical service system: Population-based, ORION registry
+ViPR: an open bioinformatics database and analysis resource for virology research
+Diagnosis of SARS-CoV-2 infection with LamPORE, a high-throughput platform combining loop-mediated isothermal amplification and nanopore sequencing
+COVeAGE-DB: A database of age-structured COVID-19 cases and deaths.
+An easy operating pathogen microarray (EOPM) platform for rapid screening of vertebrate pathogens
+COVIEdb: A database for potential immune epitopes of coronaviruses
+CORDITE: the curated CORona Drug InTERactions database for SARS-CoV-2
+Lantern: an integrative repository of functional annotations for lncRNAs in the human genome
+CoV3D: a database of high resolution coronavirus protein structures
+Negative-sense RNA viruses: An underexplored platform for examining virus–host lipid interactions

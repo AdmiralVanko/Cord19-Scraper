@@ -12,6 +12,9 @@ Latest run was with the cord-19 Dataset from 2022-04-07; results are included.
 Contact for questions: ivan.shtetinski@gmail.com
 
 #Resources
+
 #https://universaldependencies.org/en/dep/index.html
+
 #https://universaldependencies.org/u/pos/
+
 #https://nlp.stanford.edu/software/dependencies_manual.pdf
